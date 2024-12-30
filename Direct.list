@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
-
+DOMAIN-KEYWORD,neverquit
 
 # 360
 DOMAIN-SUFFIX,360.com
